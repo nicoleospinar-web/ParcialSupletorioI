@@ -21,10 +21,6 @@ public class Usuario {
         return documento;
     }
 
-    public void setDocumento(String documento) {
-        this.documento = documento;
-    }
-
     public String getNombreCompleto() {
         return nombreCompleto;
     }

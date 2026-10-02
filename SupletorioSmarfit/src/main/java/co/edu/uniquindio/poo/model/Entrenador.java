@@ -19,10 +19,6 @@ public class Entrenador {
         return documento;
     }
 
-    public void setDocumento(String documento) {
-        this.documento = documento;
-    }
-
     public String getNombreCompleto() {
         return nombreCompleto;
     }
